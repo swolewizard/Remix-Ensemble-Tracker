@@ -1,0 +1,1 @@
+Remix Ensemble Tracker is your go-to tool for simplifying remix ensemble purchases in World of Warcraft. This lightweight addon efficiently tracks your ensemble acquisitions, adding a visual tag to already purchased ensembles in tooltips. With Remix Ensemble Tracker, shopping for ensembles on alts becomes a breeze, allowing you to focus on enjoying your in-game adventures.

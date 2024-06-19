@@ -1,0 +1,8 @@
+## Interface: 100207
+## Title: Remix Ensemble Tracker
+## Notes: Tracks ensemble purchases on all characters.
+## Author: Swole Wizard
+## Version: 1.3.0
+## IconTexture: Interface\AddOns\RemixEnsembleTracker\Icon\RemixEnsembleTrackerlogo32
+## SavedVariables: VendorItemTrackerDB
+core.lua
